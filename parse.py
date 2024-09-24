@@ -76,7 +76,11 @@ for h in range(24):
 for key, quote_list in quote_map.items():
     key = key.replace(":","_")
     with open(f"times/{key}.json", "w") as f:
-        f.write(quote_list.__repr__())
+        f.write(str(len(quote_list)));
+        f.write('\n')
+        for q in quote_list:
+            f.write(q.__repr__())
+            f.write('\n')
 
     with open(f"times/{key}.json", "r") as f:
         print(f.readline())
