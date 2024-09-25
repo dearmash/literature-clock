@@ -1,0 +1,2 @@
+1
+{'quote_start': '"We have established the exact time that Janisohn fell to the stage, the knife in his neck. It was ', 'quote_time': 'eighteen minutes to eleven', 'quote_end': '."', 'title': 'West of Guam: The Complete Cases of Jo Gar', 'author': 'Raoul Whitfield', 'sfw': 'sfw'}

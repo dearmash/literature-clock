@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': '12:39 a.m.', 'quote_end': ' and I watched the moon fall prey to an evil-looking pack of galloping dark clouds.', 'title': 'Monastery Nightmare', 'author': 'Ross H. Spencer', 'sfw': 'unknown'}

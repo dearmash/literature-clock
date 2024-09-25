@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '7:18 A.M.', 'quote_end': '\n"Ulysses to Sirene. Do you read me?"\nWhen his radio crackled, Armont was in the medical facility of the Bates Motel, watching as a plasma IV was attached to Dimitri\'s arm. He immediately grabbed for it.', 'title': 'Project Cyclops', 'author': 'Thomas Hoover', 'sfw': 'sfw'}

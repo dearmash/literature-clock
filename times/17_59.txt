@@ -1,0 +1,4 @@
+3
+{'quote_start': 'At ', 'quote_time': 'one minute to six', 'quote_end': ', the director led the guest of honor onto the stage. He watched the four hundred girls rise and applaud him in what the director would have described as a "ladylike" manner.', 'title': 'Honor Among Thieves', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'It was ', 'quote_time': "nearly six o'clock", 'quote_end': ' in the evening, and the absurd bell in the six-foot tin steeple of the church went clank-clank, clank- clank! as old Mattu pulled the rope within.', 'title': 'Burmese Days', 'author': 'George Orwell', 'sfw': 'unknown'}
+{'quote_start': 'When he arrived it was ', 'quote_time': "nearly six o'clock", 'quote_end': ', and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks.', 'title': 'Dracula', 'author': 'Bram Stoker', 'sfw': 'unknown'}

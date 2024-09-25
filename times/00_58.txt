@@ -1,0 +1,3 @@
+2
+{'quote_start': 'It was downright shameless on his part to come visiting them, especially at night, ', 'quote_time': 'almost at one in the morning', 'quote_end': ', after all that had happened.', 'title': 'The Idiot', 'author': 'Fyodor Dostoyevsky', 'sfw': 'unknown'}
+{'quote_start': '', 'quote_time': '00:58 CET', 'quote_end': '\n"Everything\'s in place. Now all we have to do is. . ."\nWilliam didn\'t move a muscle until the voice faded away. More words, but they were scattered in the wind. He raised the tarpaulin an inch, and his eyes settled on a group of four men standing only a few yards from the lifeboat.', 'title': 'Nothing Ventured', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}

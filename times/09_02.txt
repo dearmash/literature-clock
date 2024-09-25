@@ -1,0 +1,4 @@
+3
+{'quote_start': 'It was ', 'quote_time': 'two minutes past nine', 'quote_end': '. Hanley nodded to the chief housing officer. "Proceed," he said. The council officer approached the door of the house and knocked loudly.', 'title': 'No Comebacks', 'author': 'Frederick Forsyth', 'sfw': 'sfw'}
+{'quote_start': "We were rolling down an expressway, somewhere, but rain was clouding the view of the skyline so that I couldn't orient myself to where we were. The glowing numbers of the dashboard clock said that it was only ", 'quote_time': 'a few minutes after nine', 'quote_end': '.', 'title': 'Fool Moon', 'author': 'Jim Butcher', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '9:02 am', 'quote_end': ' lay in bed, staring at ceiling.', 'title': 'A Fraction of the Whole', 'author': 'Steve Toltz', 'sfw': 'sfw'}

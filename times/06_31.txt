@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '6:31 A.M.', 'quote_end': '\n"Alpha Leader, this is SEAL One. I think we\'ve spotted some hostiles."', 'title': 'Project Cyclops', 'author': 'Thomas Hoover', 'sfw': 'sfw'}

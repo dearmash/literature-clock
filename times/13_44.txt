@@ -1,0 +1,2 @@
+1
+{'quote_start': 'By good luck, the next train was due at ', 'quote_time': 'forty-four minutes past one', 'quote_end': ', and arrived at Yateland (the next station) ten minutes afterward.', 'title': 'Mr. Policeman and the Cook', 'author': 'Wilkie Collins', 'sfw': 'unknown'}

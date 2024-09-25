@@ -1,0 +1,3 @@
+2
+{'quote_start': 'They discussed the transmission: which of their friends, they wondered, was responsible for it? But at ', 'quote_time': '17:31', 'quote_end': ' Pick called back', 'title': 'Heavy Water', 'author': 'Martin Amis', 'sfw': 'sfw'}
+{'quote_start': 'Tuesday ', 'quote_time': '5:31 P.M.', 'quote_end': '\n"It\'s the best I can manage, Michael." Nogami\'s voice was apologetic. "Nobody knows I keep this place, not even my wife."\n"Afternoon business conferences."\n"You catch my meaning." He smiled and walked on up the sandstone steps.', 'title': 'Project Daedalus', 'author': 'Thomas Hoover', 'sfw': 'nsfw'}

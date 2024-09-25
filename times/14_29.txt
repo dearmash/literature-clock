@@ -1,0 +1,3 @@
+2
+{'quote_start': 'His awakening faculty would seem to have been slightly out of order that day, however, and he did not arouse until ', 'quote_time': 'twenty-nine minutes past two', 'quote_end': ' by the hotel clock.', 'title': 'The Four-Masted Cat Boat', 'author': 'Charles Battell Loomis', 'sfw': 'sfw'}
+{'quote_start': 'At ', 'quote_time': 'twenty-nine minutes past two', 'quote_end': ' on Monday, Lucy tapped at their sitting-room door and said, "If you please, sir, there is a man in black downstairs with a young gentleman."', 'title': 'Blue at the Mizzen', 'author': "Patrick O'Brian", 'sfw': 'sfw'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': 'two minutes of nine', 'quote_end': ' now - two minutes before the bombs were set to explode - and three or four people were gathered in front of the bank waiting for it to open.', 'title': 'The Getaway', 'author': 'Jim Thompson', 'sfw': 'unknown'}

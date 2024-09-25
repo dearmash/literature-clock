@@ -1,0 +1,3 @@
+2
+{'quote_start': 'He glanced at his watch: ', 'quote_time': '3:07', 'quote_end': ". Surely it couldn't be Fiona? He dragged himself out of bed, put on his dressing gown, and reluctantly padded across to the door.", 'title': 'Heads You Win', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'Wayne late-logged in: ', 'quote_time': '3.07 am', 'quote_end': ' -the late-late show. He parked. He dumped his milk can. He yawned, he stretched. He scratched.', 'title': 'The Cold Six Thousand', 'author': 'James Ellroy', 'sfw': 'unknown'}

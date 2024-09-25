@@ -1,0 +1,2 @@
+1
+{'quote_start': 'When I heard the thump overhead, I did not bother to look up. I knew it was ', 'quote_time': 'fourteen minutes to seven', 'quote_end': '.', 'title': 'Tiffany Street', 'author': 'Jerome Weidman', 'sfw': 'sfw'}

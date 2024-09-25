@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': '3:25 a.m.', 'quote_end': ' A strange thrill, to think I was the only Mulvaney awake in the house.', 'title': 'We Were the Mulvaneys', 'author': 'Joyce Carol Oates', 'sfw': 'unknown'}

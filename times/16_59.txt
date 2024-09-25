@@ -1,0 +1,2 @@
+1
+{'quote_start': '"', 'quote_time': 'One minute to five', 'quote_end': '."\nThe needles flashed silver fire. They swam like a tiny school of metal fish in the darkening summer air.', 'title': 'Embroidery', 'author': 'Ray Bradbury', 'sfw': 'unknown'}

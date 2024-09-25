@@ -1,0 +1,3 @@
+2
+{'quote_start': 'She settled back beside him. "It\'s ', 'quote_time': '2:43', 'quote_end': ':12 am, Case. Got a readout chipped into my optic nerve."', 'title': 'Neuromancer', 'author': 'William Gibson', 'sfw': 'unknown'}
+{'quote_start': 'Max woke from the nightmare with a gasp, eyes flying open in the pitch-black room. She blinked twice and muffled a groan as the ', 'quote_time': '02:43', 'quote_end': ' timestamp appeared in her vision. "You\'ve never even seen a real bear," she muttered.', 'title': 'A Pale Light in the Black', 'author': 'K.B. Wagers', 'sfw': 'sfw'}

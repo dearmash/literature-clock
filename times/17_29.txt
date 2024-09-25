@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Well?" he said. \n "It\'s ', 'quote_time': 'twenty-nine minutes past five', 'quote_end': ', Insert Name Here," said the imp nervously.', 'title': 'Thud!', 'author': 'Terry Pratchett', 'sfw': 'sfw'}

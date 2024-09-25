@@ -1,0 +1,3 @@
+2
+{'quote_start': 'A strange thought crossed his mind. He must remember to tell Clare that the top of Everest was about the same size as their dining-room table. George checked his watch: ', 'quote_time': '3:36 P.M.', 'quote_end': '', 'title': 'Paths of Glory', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'Meanwhile a girl was standing in an airport concourse. A big clock suspended from the ceiling said it was ', 'quote_time': 'twenty-four minutes to four', 'quote_end': '.', 'title': 'The Intruders', 'author': 'Michael Marshall', 'sfw': 'sfw'}

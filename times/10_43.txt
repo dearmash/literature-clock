@@ -1,0 +1,2 @@
+1
+{'quote_start': '24 January, ', 'quote_time': '10.43 a.m', 'quote_end': ': one month and two days later I wonder if I should worry about the fact that my darling boyfriend bought me a birthday present that has the potential to cause instant death...', 'title': 'The Wish List', 'author': 'Jane Costello', 'sfw': 'unknown'}

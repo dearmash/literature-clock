@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Morning, Mark. Hell, man, is it eight o\'clock already?"\n"No, ', 'quote_time': 'thirteen minutes to seven', 'quote_end': '."', 'title': 'Shall We Tell the President?', 'author': 'Jeffrey Archer', 'sfw': 'nsfw'}

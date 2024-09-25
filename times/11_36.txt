@@ -1,0 +1,3 @@
+2
+{'quote_start': "Velma Pitt-Cowley, Mrs. Carling's literary agent, had agreed to be at the flat at ", 'quote_time': '11:30 and arrived six minutes late', 'quote_end': '. She was hardly inside the door before it became apparent that she was in none too good a temper.', 'title': 'Original Sin', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': 'I ran up the stairs, away from the heat and the noise, the mess and the confusion. I saw the clock radio by my bed. ', 'quote_time': 'Eleven thirty-six', 'quote_end': '.', 'title': 'Losing You', 'author': 'Nicci French', 'sfw': 'unknown'}

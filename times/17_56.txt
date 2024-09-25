@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Now, sir, the hand wants ', 'quote_time': 'four minutes to six', 'quote_end': ". If the hour strike before you call yourself a wanton, gratuitous calumniator, I'll flog you round the room.", 'title': 'The Knight of Gwynne', 'author': 'Charles James Lever', 'sfw': 'sfw'}

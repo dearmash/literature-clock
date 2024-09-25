@@ -1,0 +1,3 @@
+2
+{'quote_start': "I told him he'd sold me on that and we folded the maps and put them back into their waterproof pouches. This was at ", 'quote_time': '07:31', 'quote_end': ' and Ferris got up and stretched his legs and asked for flying instructions.', 'title': 'The Sinkiang Executive', 'author': 'Adam Hall', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '7:31 A.M.', 'quote_end': "\nBill Bates looked through the Sikorsky's wide windscreen and saw them coming. The time had arrived, he realized immediately, to make a move. Now or never.", 'title': 'Project Cyclops', 'author': 'Thomas Hoover', 'sfw': 'sfw'}

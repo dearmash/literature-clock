@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Everybody was happy; everybody was complimentary; the ice was soon broken; songs, anecdotes, and more drinks followed, and the pregnant minutes flew. At ', 'quote_time': 'six minutes to one', 'quote_end': ', when the jollity was at its highest— BOOM! There was silence instantly.', 'title': 'A Double Barrelled Detective Story', 'author': 'Mark Twain', 'sfw': 'unknown'}

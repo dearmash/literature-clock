@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': '7:32', 'quote_end': ', he suffered a fatal stroke.', 'title': 'IT', 'author': 'Stephen King', 'sfw': 'unknown'}

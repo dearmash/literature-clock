@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At approximately ', 'quote_time': '5:05 p.m.', 'quote_end': ' Joe became aware of a man standing close to the table, about two metres away, talking in Mandarin into a mobile phone. He was a middle-aged Han wearing cheap leather slip-on shoes, high-waisted black trousers and a white short-sleeved shirt.', 'title': 'Typhoon', 'author': 'Charles Cumming', 'sfw': 'unknown'}

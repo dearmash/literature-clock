@@ -1,0 +1,3 @@
+2
+{'quote_start': '"Drive safe," says Ned. He texted me to send the van. That was at ', 'quote_time': '2:36', 'quote_end': ', I know because I looked at the clock, the art deco one right over there, see? Keeps perfect time. Then, I dunno, he just vanished.', 'title': 'Stone Mattress', 'author': 'Margaret Atwood', 'sfw': 'unknown'}
+{'quote_start': 'It was about ', 'quote_time': '2.36 am', 'quote_end': ' when a provost colonel arrived to arrest me. At 2.36 1/2 I remembered the big insulating gauntlets. But even had I remembered before, what could I have done?', 'title': 'The Ipcress File', 'author': 'Len Deighton', 'sfw': 'unknown'}

@@ -1,0 +1,3 @@
+2
+{'quote_start': 'Fifteen minutes later (', 'quote_time': '21.22 hrs', 'quote_end': "), Miss Squire arrives in Skipton where she is booked into a local B&B. This B&B is located directly across the road from Mhairi Callaghan's Feathercuts.", 'title': 'Burley Cross Postbox Theft', 'author': 'Nicola Barker', 'sfw': 'unknown'}
+{'quote_start': 'Two days later, on the second of February at ', 'quote_time': '9:22', 'quote_end': ' Jerusalem time, the Dominion launched a simultaneous and massive attack on twenty-two of the worlds between Bannermere and Earth.', 'title': 'The Infinite Day', 'author': 'Chris Walley', 'sfw': 'unknown'}

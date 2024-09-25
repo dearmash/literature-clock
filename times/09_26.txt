@@ -1,0 +1,2 @@
+1
+{'quote_start': 'This was the sixth equipment failure in a week, the eleventh since Nula\'s death. It was enormously significant. She nodded, concealing her reaction.\n"There is also a report from the test site, madam."\n"Proceed."\n"Test flight terminated at ', 'quote_time': '09.26 hours', 'quote_end': ' at map point 45, sector 14."', 'title': 'New Doctor Who Adventures: Zamper', 'author': 'Gareth Roberts', 'sfw': 'sfw'}

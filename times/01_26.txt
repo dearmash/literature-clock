@@ -1,0 +1,2 @@
+1
+{'quote_start': 'When I reached the stop and got off, it was already ', 'quote_time': 'one twenty-six A.M.', 'quote_end': " by the bus's own clock. I had been gone over ten hours.", 'title': 'The Silver Metal Lover', 'author': 'Tanith Lee', 'sfw': 'unknown'}

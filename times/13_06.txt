@@ -1,0 +1,2 @@
+1
+{'quote_start': 'And then at precisely ', 'quote_time': '13 hours and 6 minutes', 'quote_end': ' - confusion broke out in the rectangle.', 'title': 'We', 'author': 'Yevgeny Zamyatin', 'sfw': 'unknown'}

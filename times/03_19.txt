@@ -1,0 +1,2 @@
+1
+{'quote_start': "The time stamp on Navidson's camcorder indicates that it is exactly ", 'quote_time': '3.19 A.M.', 'quote_end': '', 'title': 'House of Leaves', 'author': 'Mark Z. Danielewski', 'sfw': 'sfw'}

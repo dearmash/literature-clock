@@ -1,0 +1,2 @@
+1
+{'quote_start': 'No manner of exhaustion can keep a child asleep much later than six a.m. on Christmas Day. Colby awoke at ', 'quote_time': '4:35', 'quote_end': '.', 'title': 'Dreams and Shadows', 'author': 'C. Robert Cargill', 'sfw': 'unknown'}

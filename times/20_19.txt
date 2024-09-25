@@ -1,0 +1,3 @@
+2
+{'quote_start': 'At ', 'quote_time': '8:19', 'quote_end': ' she received a second phone call to let her know the plane had taken off from Amman with the "cargo" on board.', 'title': 'Honor Among Thieves', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'All was still. It was ', 'quote_time': 'nineteen minutes past eight', 'quote_end': '.', 'title': "The Burglars' Club", 'author': 'Henry Augustus Hering', 'sfw': 'sfw'}

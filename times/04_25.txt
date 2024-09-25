@@ -1,0 +1,2 @@
+1
+{'quote_start': 'As I dressed I glanced at my watch. It was no wonder that no one was stirring. It was ', 'quote_time': 'twenty-five minutes past four', 'quote_end': '.', 'title': 'The Adventures of Sherlock Holmes', 'author': 'Sir Arthur Conan Doyle', 'sfw': 'unknown'}

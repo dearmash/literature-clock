@@ -1,0 +1,2 @@
+1
+{'quote_start': '"I know what old Else has told me, but so far I haven\'t heard it from you, son. What were you doing in Hog Court at approximately ', 'quote_time': 'seven minutes to four', 'quote_end': ' this morning?"', 'title': 'Soho', 'author': 'Keith Waterhouse', 'sfw': 'sfw'}

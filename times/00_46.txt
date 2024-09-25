@@ -1,0 +1,2 @@
+1
+{'quote_start': "Teddy wrote that phone records confirm Miss Lutton's story. She called at ", 'quote_time': '12:46 a.m.', 'quote_end': '', 'title': 'Dial M for Mischief', 'author': 'Kasey Michaels', 'sfw': 'sfw'}

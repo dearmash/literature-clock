@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Friday ', 'quote_time': '1:21 A.M.', 'quote_end': '\n"Your name Vance?" The Russian voice, with its uncertain English, was the last thing he\'d expected.\n"Who are you?"\n"For this vehicle, I am Director Propulsion System," he replied formally, and with pride, pulling at his white lab coat. "I must talk you. Please."', 'title': 'Project Daedalus', 'author': 'Thomas Hoover', 'sfw': 'sfw'}

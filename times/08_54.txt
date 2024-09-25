@@ -1,0 +1,3 @@
+2
+{'quote_start': 'He had to fork out almost a pound on a taxi to make sure he arrived at the police station at ', 'quote_time': '8:54 a.m.', 'quote_end': " A young constable took him straight through to Detective Sergeant Warwick's office, and not an interview room.", 'title': 'Heads You Win', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': '"Are you aware that at ', 'quote_time': '08.54', 'quote_end': ' Carthedian standard time yesterday, a report was received from Captain J.L. Gafeska of the cargo ship Axious that the occupants of charter ship KS55NZ/4 were found dead aboard said charter ship?"', 'title': 'Doctor Who: The Dalek Generation', 'author': 'Nicholas Briggs', 'sfw': 'sfw'}

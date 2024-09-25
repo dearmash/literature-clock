@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '21:17', 'quote_end': ', Sunday Evening, Angbyplan. A man is observed outside the hair salon. He presses his face and hands against the glass, and appears extremely intoxicated.', 'title': 'Let the Right One In', 'author': 'John Ajvide Lindqvist', 'sfw': 'unknown'}

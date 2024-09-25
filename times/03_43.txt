@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The clock says ', 'quote_time': '3.43 am', 'quote_end': ". The thermometer says it's a chilly fourteen degrees Fahrenheit. The weatherman says the cold spell will last until Thursday, so bundle up and bundle up some more. There are icicles barring the window of the bat cave.", 'title': 'Ghostwritten', 'author': 'David Mitchell', 'sfw': 'unknown'}

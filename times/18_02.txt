@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Incidentally, confirmed by a record of a small and poorly defined shallow-focus earthquake around two hundred and fifty kilometers north of Herrandown at ', 'quote_time': '6:02 p.m.', 'quote_end': ' But there is a major problem." ', 'title': 'The Shadow and Night', 'author': 'Chris Walley', 'sfw': 'sfw'}

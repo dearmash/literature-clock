@@ -1,0 +1,4 @@
+3
+{'quote_start': 'I filled her in on the weekend\'s events, and she paled when I told her about the gunshot. "Thank the Lord you weren\'t hurt."\nWe discussed the incident a few minutes longer, and then I noticed the time. ', 'quote_time': 'Four minutes before nine', 'quote_end': '.', 'title': 'No Cats Allowed', 'author': 'Miranda James', 'sfw': 'sfw'}
+{'quote_start': 'It was ', 'quote_time': "nearly nine o'clock", 'quote_end': ' and the sun was fiercer every minute.', 'title': 'Burmese Days', 'author': 'George Orwell', 'sfw': 'unknown'}
+{'quote_start': 'It was Mrs. Poppets that woke me up next morning. She said: "Do you know that it\'s ', 'quote_time': "nearly nine o'clock", 'quote_end': ', sir?"\n "Nine o\' what?" I cried, starting up.\n "Nine o\'clock," she replied, through the keyhole. "I thought you was a- oversleeping yourselves."', 'title': 'Three Men in a Boat', 'author': 'Jerome K. Jerome', 'sfw': 'sfw'}

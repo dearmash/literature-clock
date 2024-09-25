@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': 'one-thirty-one', 'quote_end': ' in the morning. He poured another Crown. Downed it and repeated the process two more times.', 'title': 'Westerly', 'author': 'Michael E. Newell', 'sfw': 'unknown'}

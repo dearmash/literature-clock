@@ -1,0 +1,3 @@
+2
+{'quote_start': "It was a receipt for the purchase of 13.6 gallons of gas, a credit card transaction bearing Soderburg's signature. It had been generated at the Food 'N Fuel at ", 'quote_time': '1:27 A.M.', 'quote_end': ' on January 1.', 'title': 'Blood Hollow', 'author': 'William Kent Krueger', 'sfw': 'sfw'}
+{'quote_start': 'At ', 'quote_time': 'twenty-seven minutes past one', 'quote_end': ' she felt as if she was levitating out of her body.', 'title': 'Trackers', 'author': 'Deon Meyer', 'sfw': 'unknown'}

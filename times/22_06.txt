@@ -1,0 +1,4 @@
+3
+{'quote_start': 'Of course, they had good reason to be fussy on such a night. And then it was long ', 'quote_time': "after ten o'clock", 'quote_end': ' and yet there was no sign of Gabriel and his wife. Besides they were dreadfully afraid that Freddy Malins might turn up screwed.', 'title': 'The Dead', 'author': 'James Joyce', 'sfw': 'unknown'}
+{'quote_start': '"Let me know as soon as you hear anything."\n Quoyle shivered in the chilly kitchen. The clock said ', 'quote_time': 'six minutes past ten', 'quote_end': '. He could not hear the sea.', 'title': 'The Shipping News', 'author': 'Annie Proulx', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '22:06 CET', 'quote_end': "\nWilliam settled down on his bunk just after ten, but he didn't sleep. Some of the deckhands were playing cards, while others told unlikely tales of treasure they had recovered from the bottom of the ocean.", 'title': 'Nothing Ventured', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}

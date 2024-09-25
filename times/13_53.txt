@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Mr. Jackson," exclaimed Mr. Rossiter. "I really must ask you to be good enough to come in from your lunch at the proper time. It was fully ', 'quote_time': 'seven minutes to two', 'quote_end': ' when you returned, and-"', 'title': 'Psmith in the City', 'author': 'P.G. Wodehouse', 'sfw': 'sfw'}

@@ -1,0 +1,3 @@
+2
+{'quote_start': 'Andrea Mitchell appears on a split screen. "Chet, we understand from a source at Homeland Security that the explosion happened at ', 'quote_time': 'two-nineteen P.M.', 'quote_end': ' I don\'t know how the authorities can pinpoint the time that exactly, but apparently they can."', 'title': 'If It Bleeds', 'author': 'Stephen King', 'sfw': 'unknown'}
+{'quote_start': '', 'quote_time': '2:19', 'quote_end': ': Duane Hinton walks out. He walks through the backyard. He lugs some clothes. He wore said clothes last night. He walks to the fence. He feeds the incinerator. He lights a match.', 'title': 'The Cold Six Thousand', 'author': 'James Ellroy', 'sfw': 'unknown'}

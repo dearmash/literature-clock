@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Mike winked at Ashley and continued with the remaining greetings and hugs and handshakes. The time was ', 'quote_time': '4:24', 'quote_end': '. Six hours to go. The minutes seemed to just melt away.', 'title': 'Teardrop', 'author': 'Travis Thrasher', 'sfw': 'unknown'}

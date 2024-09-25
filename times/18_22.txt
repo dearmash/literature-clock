@@ -1,0 +1,4 @@
+3
+{'quote_start': '', 'quote_time': '18:22 GMT', 'quote_end': '\n"The firearms squad is in place, sir," said a lone voice over the intercom, sounding like a crack of thunder, after a couple of hours of silence.', 'title': 'Nothing Ventured', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': '"It was ', 'quote_time': 'six twenty-two', 'quote_end': ', Commander. I happened to glance at the clock." \n He held open the door wide. It seemed less an invitation to leave than a command.', 'title': 'The Murder Room', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': "Clock overturned when he fell forward. That'll give us the time of the crime. ", 'quote_time': 'Twenty-two minutes past six', 'quote_end': '.', 'title': 'The Murder at the Vicarage', 'author': 'Agatha Christie', 'sfw': 'unknown'}

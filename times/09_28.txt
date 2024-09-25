@@ -1,0 +1,3 @@
+2
+{'quote_start': 'The call had been made at ', 'quote_time': '9:28', 'quote_end': ". This was one more piece of evidence, and an important one. It proved what they had suspected from the first: that the killer was in St. Anselm's.", 'title': 'Death in Holy Orders', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': '"This clock right?" he asked the butler in the hall.\n "Yes, sir." The clock showed ', 'quote_time': 'twenty-eight minutes past nine', 'quote_end': '. "The clocks here have to be right, sir," the butler added with pride and a respectful humour, on the stairs.', 'title': 'Lord Raingo', 'author': 'Arnold Bennett', 'sfw': 'unknown'}

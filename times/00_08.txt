@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Hour of the night!" exclaimed the priest; "it is day, not night, and the hour is ', 'quote_time': 'eight past midnight', 'quote_end': '!"', 'title': 'The Brigantine', 'author': 'James Pascoe', 'sfw': 'unknown'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': "When a call came through to Dilworth's home number at ", 'quote_time': 'fourteen minutes past eight', 'quote_end': " o'clock, Olbier and Jones reacted with far more excitement than the situation warranted because they were desperate for action.", 'title': 'Watchers', 'author': 'Dean Koontz', 'sfw': 'unknown'}

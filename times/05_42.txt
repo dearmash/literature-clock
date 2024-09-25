@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': 'eighteen minutes to six', 'quote_end': ', they blew the wall, and even then, it was almost too late.', 'title': "A Gentleman's Game", 'author': 'Greg Rucka', 'sfw': 'sfw'}

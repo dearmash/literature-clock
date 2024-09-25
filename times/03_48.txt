@@ -1,0 +1,3 @@
+2
+{'quote_start': 'He checked the time, ', 'quote_time': '03.48', 'quote_end': ', and was about to enter the code when Collins calmly entered the room, dressed in a tailcoat, striped trousers, stiff white collar and grey silk tie.', 'title': 'Over My Dead Body', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'When Jeremy and Cuby reached their room it was ', 'quote_time': 'twelve minutes to four', 'quote_end': '. The fire had nearly gone out in their bedroom, but Jeremy went downstairs and brought up more faggots to set it to a new blaze.', 'title': 'The Twisted Sword', 'author': 'Winston Graham', 'sfw': 'sfw'}

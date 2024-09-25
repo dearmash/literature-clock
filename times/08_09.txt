@@ -1,0 +1,3 @@
+2
+{'quote_start': "He looked across at his son. ‘You been booking in all those names, the way I taught you?'\n‘Sure have, Dad. Mr Parnell, 7.47; Mr Parker, ", 'quote_time': '8.09', 'quote_end': "; Mr Tudor-Jones, 8.11; Mr Alexander, 8.23.'", 'title': 'The Grass is Always Greener', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'He followed the squeals down a hallway. A wall clock read ', 'quote_time': '8:09', 'quote_end': ' - 10:09 Dallas time.', 'title': 'American Tabloid', 'author': 'James Ellroy', 'sfw': 'unknown'}

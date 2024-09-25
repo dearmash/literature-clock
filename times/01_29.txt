@@ -1,0 +1,2 @@
+1
+{'quote_start': "He exited the men's room at ", 'quote_time': 'one-twenty-nine A.M.', 'quote_end': '', 'title': 'The Narc', 'author': 'William Edmund Butterworth', 'sfw': 'unknown'}

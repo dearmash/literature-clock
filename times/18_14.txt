@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Is he conscious? Has the ether—"\n"I can\'t say as to that," said Simmy cheerfully. "He\'s been back in his room since five o\'clock. That\'s—let\'s see what time is it now? ', 'quote_time': 'Six-fourteen', 'quote_end': '. Nearly an hour and a quarter. They all say—"', 'title': 'From the Housetops', 'author': 'George Barr McCutcheon', 'sfw': 'nsfw'}

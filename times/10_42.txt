@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Ellis scanned the wall-mounted clocks spanning four time zones. The local time read ', 'quote_time': '10:42', 'quote_end': '. Had word of his gaffe already gone all the way to Trimble?', 'title': 'Sold on a Monday', 'author': 'Kristina McMorris', 'sfw': 'sfw'}

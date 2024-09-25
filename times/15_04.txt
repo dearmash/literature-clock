@@ -1,0 +1,4 @@
+3
+{'quote_start': 'He checked his watch: ', 'quote_time': '3:04 P.M.', 'quote_end': ' He banged on the door again, but still no one responded. Surely they would not deny him entry when he was only a couple of minutes late?', 'title': 'Paths of Glory', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'He saw the clock in the town-hall tower standing at ', 'quote_time': 'four minutes past three', 'quote_end': ' on that hot and windless late-July afternoon.', 'title': 'The Tommyknockers', 'author': 'Stephen King', 'sfw': 'unknown'}
+{'quote_start': 'Woken at ', 'quote_time': '1504', 'quote_end': ' by Michelangelo hammering away with his chisel.', 'title': '101 Reykjavik', 'author': 'Hallgrímur Helgason', 'sfw': 'unknown'}

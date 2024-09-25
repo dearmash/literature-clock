@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Here I am, at ', 'quote_time': 'nine minutes past six', 'quote_end': ' on a drizzly Saturday evening, with every intention of writing a book in one sitting.', 'title': 'Life With No Breaks', 'author': 'Nick Spalding', 'sfw': 'sfw'}

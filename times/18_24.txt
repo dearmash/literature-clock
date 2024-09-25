@@ -1,0 +1,2 @@
+1
+{'quote_start': 'We were cleared by the tower at ', 'quote_time': '18:24', 'quote_end': ' and got airborne seven minutes after the scheduled departure time. The evening sky was almost clear, with a scattering of cumulous along the southern horizon and the windsocks hanging limp.', 'title': "Quiller's Run", 'author': 'Adam Hall', 'sfw': 'sfw'}

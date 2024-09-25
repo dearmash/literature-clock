@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': '11:24', 'quote_end': " we thanked Helen Gillard and asked her to thank the doctor for us, left the house, walked sixty yards to Wolfe's, found the door was bolted, pushed the button and were admitted by Fritz.", 'title': 'The Final Deduction', 'author': 'Rex Stout', 'sfw': 'sfw'}

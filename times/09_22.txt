@@ -1,0 +1,3 @@
+2
+{'quote_start': "No more throwing stones at him, and I'll see you back here exactly one week from now. She looked at her watch. 'At ", 'quote_time': 'nine twenty-two', 'quote_end': " next Wednesday.'", 'title': 'This is Life', 'author': 'Dan Rhodes', 'sfw': 'unknown'}
+{'quote_start': 'Two days later, on the second of February at ', 'quote_time': '9:22', 'quote_end': ' Jerusalem time, the Dominion launched a simultaneous and massive attack on twenty-two of the worlds between Bannermere and Earth.', 'title': 'The Infinite Day', 'author': 'Chris Walley', 'sfw': 'unknown'}

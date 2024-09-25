@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The time on the video recorder was ', 'quote_time': '19.36', 'quote_end': ' when the back door slammed and Victor strode into the front room clutching a handful of something so unspeakably vile it defies description.', 'title': 'One Foot in the Grave', 'author': 'David Renwick', 'sfw': 'sfw'}

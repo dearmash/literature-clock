@@ -1,0 +1,2 @@
+1
+{'quote_start': '"There it is! There it is!" shouted the Professor. "Now for the centre of the globe!" he added in Danish.\nI looked at Hans. "Forüt!" was his tranquil answer.\n"Forward!" replied my uncle. It was ', 'quote_time': 'thirteen minutes past one', 'quote_end': '.', 'title': 'Journey to the Centre of the Earth', 'author': 'Jules Verne', 'sfw': 'unknown'}

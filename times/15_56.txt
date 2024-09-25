@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': 'Four minutes to four', 'quote_end': '. Newman sighed again, lost in thought.', 'title': 'Tripwire', 'author': 'Lee Child', 'sfw': 'unknown'}

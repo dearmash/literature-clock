@@ -1,0 +1,3 @@
+2
+{'quote_start': 'Exactly as the display ticked over to ', 'quote_time': '9.39 a.m.', 'quote_end': ' there was a distant banging on my front door. I hate show-offs.', 'title': 'Fated', 'author': 'Benedict Jacka', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '9:39 A.M.', 'quote_end': "\nBraque was in the ground-floor women's bathroom at Chapin Hall with her pants to her knees, but her whole day wasn't f*cked yet. Yes, this was a substantial detour, but she still had an hour to make it to her last Micro 1 discussion group before the final.", 'title': 'Kitchens of the Great Midwest', 'author': 'J. Ryan Stradal', 'sfw': 'nsfw'}

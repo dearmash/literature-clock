@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The clerk had stepped into the hall, and when he came leisurely in at ', 'quote_time': 'three minutes to four', 'quote_end': ', Caxton discovered that he had written his petition on the back of a blank marriage liscense.', 'title': "The Colonel's Dream", 'author': 'Charles W. Chesnutt', 'sfw': 'sfw'}

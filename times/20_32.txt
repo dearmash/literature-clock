@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At the station he captured Miss Lantry out of the gadding mob at ', 'quote_time': 'eight thirty-two', 'quote_end': '. "We mustn\'t keep mamma and the others waiting," said she. "To Wallack\'s Theatre as fast as you can drive!"', 'title': 'The Four Million', 'author': 'O. Henry', 'sfw': 'unknown'}

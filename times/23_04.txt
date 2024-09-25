@@ -1,0 +1,2 @@
+1
+{'quote_start': 'He came out of his reverie and noticed on the digital clock that it was already ', 'quote_time': 'four minutes past eleven', 'quote_end': '. As he began switching channels, he cursed himself, cursed his weakness, and cursed the satanic forces that were loose in this accursed land.', 'title': "The Lion's Game", 'author': 'Nelson DeMille', 'sfw': 'sfw'}

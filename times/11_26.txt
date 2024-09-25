@@ -1,0 +1,3 @@
+2
+{'quote_start': 'A pair of brown shoes appeared beneath his urine bag. "I counted eleven bells."\n"The current time is ', 'quote_time': '11:26 AM', 'quote_end': '."\n"What day?"\n"Your injury occurred yesterday."', 'title': 'The Wind Knot', 'author': 'John Galligan', 'sfw': 'sfw'}
+{'quote_start': 'At ', 'quote_time': '11:26 a.m.', 'quote_end': ', 0xAA289 experienced an unconnected hardware failure in one of the nodes it was running on.', 'title': 'The Turing Exception', 'author': 'William Hertling', 'sfw': 'sfw'}

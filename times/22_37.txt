@@ -1,0 +1,2 @@
+1
+{'quote_start': '"At ', 'quote_time': '10:37 p.m.', 'quote_end': ' that night a fireball rips through Obscurity, killing Cripps but not before he\'s called Goldilocks and left a message about something being \'full of holes.\'"', 'title': 'The Fourth Bear', 'author': 'Jasper Fforde', 'sfw': 'sfw'}

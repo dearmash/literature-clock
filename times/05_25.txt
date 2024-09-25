@@ -1,0 +1,3 @@
+2
+{'quote_start': 'At ', 'quote_time': '5:25 a.m.', 'quote_end': ' the doorbell rings, always an evil omen. I stagger to the intercom and push the button.', 'title': "The Time Traveler's Wife", 'author': 'Audrey Niffenegger', 'sfw': 'unknown'}
+{'quote_start': "George's train home from New Street leaves at ", 'quote_time': '5.25', 'quote_end': '. On the return journey, there are rarely schoolboys.', 'title': 'Arthur and George', 'author': 'Julian Barnes', 'sfw': 'unknown'}

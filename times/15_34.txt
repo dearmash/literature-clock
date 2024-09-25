@@ -1,0 +1,3 @@
+2
+{'quote_start': "In fact, it wasn't until the final result had been declared in Mulgelrie at ", 'quote_time': '3:34 p.m.', 'quote_end': " on the day after the election that the nation began to prepare itself for the first Labor government since Clement Attlee's thirteen years before.", 'title': 'Be Careful What You Wish For', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'It was ', 'quote_time': '15:34', 'quote_end': ' now and the sleepiness felt like lead inside him.', 'title': "Devil's Peak", 'author': 'Deon Meyer', 'sfw': 'sfw'}

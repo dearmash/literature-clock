@@ -1,0 +1,3 @@
+2
+{'quote_start': 'There they stopped engines and lay side by side upon the water for a few minutes, perhaps five miles from the fishing fleet, and between them and Douarnenez. At ', 'quote_time': '22.57', 'quote_end': ' they started up main engines and turned to do their stuff.', 'title': 'Most Secret', 'author': 'Nevil Shute', 'sfw': 'sfw'}
+{'quote_start': 'Then it grew dark; she would have had them to bed, but they begged sadly to be allowed to stay up; and, ', 'quote_time': "just about eleven o'clock", 'quote_end': ', the door-latch was raised quietly, and in stepped the master.', 'title': 'Wuthering Heights', 'author': 'Emily Brontë', 'sfw': 'unknown'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The glowing numbers read ', 'quote_time': '2.47 am', 'quote_end': '. Moisés sighs and turns back to the bathroom door. Finally, the doorknob turns and Conchita comes back to bed. She resumes her place next to Moisés. Relieved, he pulls her close.', 'title': 'The Book of Want', 'author': 'Daniel A. Olivas', 'sfw': 'unknown'}

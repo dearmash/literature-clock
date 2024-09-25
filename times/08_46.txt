@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Petrov undoubtedly had the remote, so there was no question now that the asshole had reset the time from ', 'quote_time': '08:46', 'quote_end': ' to. . . now.', 'title': 'Radiant Angel', 'author': 'Nelson DeMille', 'sfw': 'nsfw'}

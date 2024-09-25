@@ -1,0 +1,4 @@
+3
+{'quote_start': '"Five minutes ago it was three o\'clock," Murphy said. "I can\'t be certain, but I theorize that it must now be about ', 'quote_time': 'three-oh-five', 'quote_end': '."\n I folded my arms. "I don\'t usually do stakeouts."', 'title': 'White Night', 'author': 'Jim Butcher', 'sfw': 'sfw'}
+{'quote_start': 'For one moment Ruth could see the bones of the bats standing out clearly, as if in an X-ray picture.\nThen all the green turned black.\nIt was ', 'quote_time': '3:05 P.M.', 'quote_end': '', 'title': 'The Tommyknockers', 'author': 'Stephen King', 'sfw': 'unknown'}
+{'quote_start': 'Ultimately, at ', 'quote_time': 'five minutes past three', 'quote_end': ' that afternoon, Smith admitted the falsity of the Fort Scott tale.\n"That was only something Dick told his family. So he could stay out overnight. Do some drinking."', 'title': 'In Cold Blood', 'author': 'Truman Capote', 'sfw': 'unknown'}

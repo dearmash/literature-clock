@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '6:49 p.m.', 'quote_end': ' Lieutenant-General Tanz escorted by a motorized unit, drove to Corps headquarters', 'title': 'The Night of the Generals', 'author': 'Hans Hellmut Kirst', 'sfw': 'unknown'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': 'She looked at her watch. It was ', 'quote_time': '5.27 am', 'quote_end': ". Surely Gawain would already be here? Wouldn't he be looking out for her, since there was no obvious way of getting inside?", 'title': 'New York Valentine', 'author': 'Carmen Reid', 'sfw': 'unknown'}

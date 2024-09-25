@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': '6:20 a.m.', 'quote_end': ", and my parents and I were standing, stunned and half-awake, in the parking lot of a Howard Johnson's in Iowa.", 'title': 'Soon I Will Be Invincible', 'author': 'Austin Grossman', 'sfw': 'unknown'}

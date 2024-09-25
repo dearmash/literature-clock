@@ -1,0 +1,2 @@
+1
+{'quote_start': 'He drew out his note-book and read aloud what the mysterious chandler had said to him: "It was precisely ', 'quote_time': 'thirteen minutes past one', 'quote_end': ' on the twenty-fourth of January when I drew my last breath."', 'title': 'Atlantis', 'author': 'Gerhart Hauptmann', 'sfw': 'sfw'}

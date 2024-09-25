@@ -1,0 +1,3 @@
+2
+{'quote_start': "A few minutes' light ", 'quote_time': 'around noon', 'quote_end': ' is all that you need to discover the error, and re-set the clock – provide that you bother to go up and make the observation.', 'title': 'Odalisque: The Baroque Cycle #3', 'author': 'Neal Stephenson', 'sfw': 'unknown'}
+{'quote_start': 'But I can tell you this: Z-spotting at Rotfield Mall confirmed yesterday at ', 'quote_time': '12:06 p.m.', 'quote_end': ' Location: In-Between Burger. Subject: Teenage male, light brown hair, blue eyes.', 'title': 'Zombie Field Day', 'author': 'Nadia Higgins', 'sfw': 'sfw'}

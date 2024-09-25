@@ -1,0 +1,4 @@
+3
+{'quote_start': 'The doctor came into the waiting room at ', 'quote_time': 'ten seventeen', 'quote_end': " that night. \n Charity came to her feet. She'd spent much of the day with her head bowed, praying quietly. She was beyond tears, at least for the moment, and she put a sheltering arm around her daughter, pulling Molly in close to her side.", 'title': 'Small Favor', 'author': 'Jim Butcher', 'sfw': 'sfw'}
+{'quote_start': 'It was already ', 'quote_time': 'seventeen minutes past ten', 'quote_end': " when Phil closed the door and turned out the light on the landing, but I knew I couldn't leave straight away.", 'title': 'I Never Gave My Consent', 'author': 'Holly Archer', 'sfw': 'nsfw'}
+{'quote_start': '', 'quote_time': '10:17 p.m.', 'quote_end': ' Casette will not go in.', 'title': "Bridget Jones's Diary", 'author': 'Helen Fielding', 'sfw': 'sfw'}

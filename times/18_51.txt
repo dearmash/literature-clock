@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The square of light in the kitchen doorway had faded to thin purple; his watch said ', 'quote_time': '6:51', 'quote_end': '.', 'title': "Salem's Lot", 'author': 'Stephen King', 'sfw': 'unknown'}

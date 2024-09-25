@@ -1,0 +1,2 @@
+1
+{'quote_start': "Since he had told the girl that it had to end, he'd been waking up every morning at ", 'quote_time': '3.14', 'quote_end': ', without fail. Every morning his eyes would flick open, alert, and the red numerals on his electric alarm clock would read 3.14.', 'title': 'The Slap', 'author': 'Christos Tsiolkas', 'sfw': 'unknown'}

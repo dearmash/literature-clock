@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At the moment museum officials do not believe anything was stolen from the collection. The museum and church, which are popular tourist attractions, will be closed to the public until further notice.\n', 'quote_time': '1:54 PM', 'quote_end': ' - 05/05/2014', 'title': 'The Catacombs', 'author': 'Jeremy Bates', 'sfw': 'unknown'}

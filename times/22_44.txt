@@ -1,0 +1,3 @@
+2
+{'quote_start': 'Alec pricked up his ears. "When was that?"\n"Oh, yesterday evening."\n"What time?"\n"', 'quote_time': 'About a quarter to eleven', 'quote_end': '. I was playing bridge."', 'title': 'Dead in the Water', 'author': 'Carola Dunn', 'sfw': 'unknown'}
+{'quote_start': 'At the words, "One thousand pounds to the person who unmasks Lady Whistledown," the clock read ', 'quote_time': 'forty-four minutes past ten', 'quote_end': '.', 'title': 'Romancing Mr. Bridgerton', 'author': 'Julia Quinn', 'sfw': 'unknown'}

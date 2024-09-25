@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '6:08 p.m.', 'quote_end': ' The code-word "Valkyrie" reached von Seydlitz Gabler\'s headquarters', 'title': 'The Night of the Generals', 'author': 'Hans Hellmut Kirst', 'sfw': 'unknown'}

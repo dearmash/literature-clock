@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '7:38 A.M.', 'quote_end': '\n"I copy," Nichols said into his mike. "When did the chopper lift off?"', 'title': 'Project Cyclops', 'author': 'Thomas Hoover', 'sfw': 'sfw'}

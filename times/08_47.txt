@@ -1,0 +1,3 @@
+2
+{'quote_start': '', 'quote_time': '8:47 a.m.', 'quote_end': ' Just had fag. But no-smoking day does not start officially till have got dressed.', 'title': "Bridget Jones's Diary", 'author': 'Helen Fielding', 'sfw': 'unknown'}
+{'quote_start': '"Just on my way to the cottage. It\'s, er, . . .', 'quote_time': '8.47', 'quote_end': '. Bit misty on the roads."', 'title': "Dirk Gently's Holistic Detective Agency", 'author': 'Douglas Adams', 'sfw': 'unknown'}

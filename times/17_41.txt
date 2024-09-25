@@ -1,0 +1,2 @@
+1
+{'quote_start': '"All right, people, let\'s haul ass. Sunset\'s at ', 'quote_time': '17:41', 'quote_end': ' and we\'ve got twenty-three k to go." Staff Segeant Beyn got to his feet and the platoon followed.', 'title': 'The Heart of Valor', 'author': 'Tanya Huff', 'sfw': 'nsfw'}

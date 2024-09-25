@@ -1,0 +1,2 @@
+1
+{'quote_start': '', 'quote_time': '07:02', 'quote_end': ':18 One and a half hours. "Case," she said, "I wanna favour."', 'title': 'Neuromancer', 'author': 'William Gibson', 'sfw': 'sfw'}

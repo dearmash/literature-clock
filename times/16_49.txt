@@ -1,0 +1,3 @@
+2
+{'quote_start': 'Within weeks Tom was on the ', 'quote_time': '4:49 P.M.', 'quote_end': ' train to New York every Friday afternoon, returning to Hartford on Monday morning. Su Ling kept asking for progress reports, but Nat seemed unusually ill-informed.', 'title': 'Sons of Fortune', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '4:49 p.m.', 'quote_end': ', a bald-headed man wearing khakis and ankle-high deck shoes came out through the front door of the purple house on 21st Avenue East. The detectives had nicknamed him the General.', 'title': 'Beyond Recognition', 'author': 'Ridley Pearson', 'sfw': 'unknown'}

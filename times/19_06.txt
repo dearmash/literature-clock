@@ -1,0 +1,2 @@
+1
+{'quote_start': "The time on the clock was six minutes after seven p.m. That doesn't conclusively prove that Sam Dillon was murdered at ", 'quote_time': 'seven-oh-six p.m.', 'quote_end': ', but all other evidence would certainly corroborate that point.', 'title': 'In the Company of Liars', 'author': 'David Ellis', 'sfw': 'sfw'}

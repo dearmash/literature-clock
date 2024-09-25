@@ -2,13 +2,14 @@ import re
 
 class Quote():
     def __init__(self, line):
-        self.line = line
+        line = line.strip()
         line = re.sub("<br[ /]*>", "\\n", line)
         line = re.sub("</?time/?>", "", line)
         line = line.replace("“", "\"")
         line = line.replace("”", "\"")
         #line = line.replace("\"", "\\\"")
         line = line.replace("’", "'")
+        self.line = line
 
         #print(line)
         splits = line.split("|")
@@ -75,12 +76,12 @@ for h in range(24):
 
 for key, quote_list in quote_map.items():
     key = key.replace(":","_")
-    with open(f"times/{key}.json", "w") as f:
+    with open(f"times/{key}.txt", "w") as f:
         f.write(str(len(quote_list)));
         f.write('\n')
         for q in quote_list:
             f.write(q.__repr__())
             f.write('\n')
 
-    with open(f"times/{key}.json", "r") as f:
+    with open(f"times/{key}.txt", "r") as f:
         print(f.readline())

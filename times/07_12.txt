@@ -1,0 +1,3 @@
+2
+{'quote_start': 'At ', 'quote_time': 'twelve minutes past seven', 'quote_end': ", in the kitchen, Kimberly was becoming anxious. She had been told by Sister Holland that Miss Gradwyn had asked for her early-morning tea tray to be brought up at seven o'clock.", 'title': 'The Private Patient', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': 'He taught me that if I had to meet someone for an appointment, I must refuse to follow the "stupid human habit" of arbitrarily choosing a time based on fifteen-minute intervals. "Never meet people at 7:45 or 6:30, Jasper, but pick times like ', 'quote_time': '7:12', 'quote_end': ' and 8:03!"', 'title': 'A Fraction of the Whole', 'author': 'Steve Toltz', 'sfw': 'unknown'}

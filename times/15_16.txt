@@ -1,0 +1,2 @@
+1
+{'quote_start': 'The Nimrod rendezvoused with the light aircraft at ', 'quote_time': '1516', 'quote_end': ' GMT.', 'title': 'The Crow Road', 'author': 'Iain Banks', 'sfw': 'unknown'}

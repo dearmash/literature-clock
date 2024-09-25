@@ -1,0 +1,3 @@
+2
+{'quote_start': 'He glanced at his watch, ', 'quote_time': '6.18 p.m.', 'quote_end': ', and moved into first gear. He climbed off the bed, stripped off his clothes and threw them over a chair before going into the bathroom and taking a long shower.', 'title': 'Over My Dead Body', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'It was at ', 'quote_time': '18:18', 'quote_end': ' when a sixty-one-year-old Tibetan woman telephoned for a fire engine to put out a burning car.', 'title': 'My Name is Not Jacob Ramsay', 'author': 'Ben Trebilcook', 'sfw': 'sfw'}

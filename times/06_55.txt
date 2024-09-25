@@ -1,0 +1,3 @@
+2
+{'quote_start': 'It was ', 'quote_time': 'five minutes to seven', 'quote_end': ' the next morning. Sergeant Masterson and Detective Constable Greeson were in the kitchen at Nightingale House with Miss Collins and Mr. Muncie. It seemed like the middle of the night to Masterson, dark and cold.', 'title': 'Shroud for a Nightingale', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': 'At ', 'quote_time': '6:55 am', 'quote_end': ' Lisa parked and took the lift from the frozen underground car park up to level 1 of Green Oaks Shopping Centre.', 'title': 'What Was Lost', 'author': "Catherine O'Flynn", 'sfw': 'sfw'}

@@ -1,0 +1,3 @@
+2
+{'quote_start': 'It was ', 'quote_time': 'six-forty', 'quote_end': " on the same Tuesday before George Chandler-Powell had finished his list of private patients at St. Angela's Hospital. Pulling off his operating gown, he felt paradoxically both exhausted and restless.", 'title': 'The Private Patient', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': "Having to change 'buses, I allowed plenty of time — in fact, too much; for we arrived at ", 'quote_time': 'twenty minutes to seven', 'quote_end': ', and Franching, so the servant said, had only just gone up to dress.', 'title': 'Diary of a Nobody', 'author': 'George and Weedon Grossmith', 'sfw': 'unknown'}

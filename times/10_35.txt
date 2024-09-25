@@ -1,0 +1,2 @@
+1
+{'quote_start': 'It was ', 'quote_time': '10:35', 'quote_end': " and Brenda Pridmore, at the reception desk at the rear of the main hall of Hoggart's Laboratory, watched wide-eyed while Inspector Blakelock drew toward him the first labeled bag of exhibits from the clunch pit murder.", 'title': 'Death of an Expert Witness', 'author': 'P.D. James', 'sfw': 'sfw'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': 'sixteen minutes past midnight', 'quote_end': ', Block 4 was hit and the roof set alight.', 'title': 'The Longest Night', 'author': 'Gavin Mortimer', 'sfw': 'unknown'}

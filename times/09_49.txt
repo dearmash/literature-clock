@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Twenty-four hours later there was a new message on the numbers station. Porter listened to it twice before decoding it. It simply said, Message received. Assets en route. Landing tomorrow at ', 'quote_time': '0949 hours', 'quote_end': '. GCHQ listening in.', 'title': 'Deathlist', 'author': 'Chris Ryan', 'sfw': 'sfw'}

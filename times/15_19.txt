@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': 'nineteen minutes past three', 'quote_end': ' Cecily Thorogood, still self-possessed, but no longer very prettily clad, was submerged in the chilly Atlantic up to her shoulders and clinging to the life-line of an upturned jolly-boat.', 'title': 'The Long Trick', 'author': 'Lewis Anselm da Costa Ritchie', 'sfw': 'sfw'}

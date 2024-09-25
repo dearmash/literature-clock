@@ -1,0 +1,3 @@
+2
+{'quote_start': "When Virginia woke the next morning, she found a large envelope lying on the doormat. She didn't want to know who'd delivered it, or when. She checked her watch, ", 'quote_time': '9:14 a.m.', 'quote_end': '', 'title': 'This Was a Man', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': '', 'quote_time': '9:14 am', 'quote_end': ' lay in bed, staring at wall.', 'title': 'A Fraction of the Whole', 'author': 'Steve Toltz', 'sfw': 'sfw'}

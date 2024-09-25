@@ -1,0 +1,3 @@
+2
+{'quote_start': 'At ', 'quote_time': '1:43 a.m.', 'quote_end': " the cheers became louder when the Conservatives captured Basildon, which on Emma's chart suggested a Conservative majority of around 30.", 'title': 'This Was a Man', 'author': 'Jeffrey Archer', 'sfw': 'sfw'}
+{'quote_start': 'They were timed at ', 'quote_time': '01:43', 'quote_end': ' on the morning of the attack on Kenny Stocks.', 'title': 'Trophies', 'author': 'David Evans', 'sfw': 'sfw'}

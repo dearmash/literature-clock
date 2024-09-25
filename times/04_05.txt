@@ -1,0 +1,2 @@
+1
+{'quote_start': 'Leaves were being blown against my window. It was ', 'quote_time': '4.05 am', 'quote_end': '. The moon had shifted in the sky, glaring through a clotted mass of clouds like a candled egg.', 'title': 'We Were the Mulvaneys', 'author': 'Joyce Carol Oates', 'sfw': 'unknown'}

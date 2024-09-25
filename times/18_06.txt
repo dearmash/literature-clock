@@ -1,0 +1,3 @@
+2
+{'quote_start': 'At ', 'quote_time': '6:06', 'quote_end': ', every toilet on Merit Street suddenly exploded in a geyser of shit and raw sewage as some unimaginable reversal took place in the pipes which fed the holding tanks of the new waste-treatment plant in the Barrens.', 'title': 'IT', 'author': 'Stephen King', 'sfw': 'nsfw'}
+{'quote_start': "According to the Book of Revelation, the great beast's number is 666. So that exact time would be ", 'quote_time': 'six minutes past six', 'quote_end': ' on the sixth of the sixth, sixty-six. Double whammy.', 'title': 'A Dog Called Demolition', 'author': 'Robert Rankin', 'sfw': 'sfw'}

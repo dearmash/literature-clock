@@ -1,0 +1,2 @@
+1
+{'quote_start': '"Mr. Kesselbach, it is ', 'quote_time': 'eight minutes to three', 'quote_end': '. If you don\'t answer within eight minutes from now, you are a dead man!"', 'title': '813', 'author': 'Maurice LeBlanc', 'sfw': 'sfw'}

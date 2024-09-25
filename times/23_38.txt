@@ -1,0 +1,3 @@
+2
+{'quote_start': 'A Ford Focus with the number plate W341 UDG was seen parked close to the house ', 'quote_time': 'between eleven-thirty-five and eleven-forty', 'quote_end': ' on the night she died.', 'title': 'The Private Patient', 'author': 'P.D. James', 'sfw': 'sfw'}
+{'quote_start': 'Jon and Randi reported the same.\n"It\'s ', 'quote_time': 'twenty-two minutes to midnight', 'quote_end': '," Randi added. "So little time."\nThey sped to the long, dark curving stairwell that seemed to drop into dark infinity.', 'title': 'The Paris Option', 'author': 'Robert Ludlum', 'sfw': 'sfw'}

@@ -1,0 +1,2 @@
+1
+{'quote_start': 'At ', 'quote_time': 'six oh-eight a.m.', 'quote_end': ' two men wearing ragged trench coats approached the Casino. The shorter of the men burst into flames.', 'title': 'Magic Bleeds', 'author': 'Ilona Andrews', 'sfw': 'unknown'}
