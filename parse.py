@@ -1,4 +1,5 @@
 import re
+import json
 
 class Quote():
     def __init__(self, line):
@@ -24,7 +25,10 @@ class Quote():
 
         # print(self.quote_start, "***", self.time_str, "***", self.quote_end, sep='')
     def __repr__(self):
-        q = {
+        return "".join([self.time, ": ", self.quote_start, "***", self.time_str, "***", self.quote_end])
+    def toDict(self):
+        return {
+                "time": self.time,
                 "quote_start": self.quote_start,
                 "quote_time": self.quote_time,
                 "quote_end": self.quote_end,
@@ -32,16 +36,16 @@ class Quote():
                 "author": self.author,
                 "sfw": self.sfw,
         }
-        return q.__repr__()
-        #return " ".join([self.time, self.time_str, self.quote, self.title, self.author, self.sfw])
-    def toDict(self):
-        return {
-                    "q":(self.quote_start,self.quote_time,self.quote_end)
-               }
 
 quotes = []
 for line in open("litclock_annotated.csv"):
     quotes.append(Quote(line))
+
+longest_quote = quotes[0]
+for q in quotes:
+    if len(q.line) > len(longest_quote.line):
+        longest_quote = q
+print(json.dumps(longest_quote.toDict()))
 
 quote_map = {}
 for q in quotes:
@@ -74,14 +78,14 @@ for h in range(24):
 #
 #print("};")
 
-for key, quote_list in quote_map.items():
-    key = key.replace(":","_")
-    with open(f"times/{key}.txt", "w") as f:
-        f.write(str(len(quote_list)));
-        f.write('\n')
-        for q in quote_list:
-            f.write(q.__repr__())
-            f.write('\n')
-
-    with open(f"times/{key}.txt", "r") as f:
-        print(f.readline())
+#for key, quote_list in quote_map.items():
+#    key = key.replace(":","_")
+#    with open(f"times/{key}.txt", "w") as f:
+#        f.write(str(len(quote_list)));
+#        f.write('\n')
+#        for q in quote_list:
+#            f.write(q.__repr__())
+#            f.write('\n')
+#
+#    with open(f"times/{key}.txt", "r") as f:
+#        print(f.readline())
